@@ -69,7 +69,7 @@ In index.html, the /scrape route was linked to a button, which a user could clic
        
    •	Appended the dictionary with the image URL string and the hemisphere title to a list
    
-    o	This list contains one dictionary for each hemisphere
+    o This list contains one dictionary for each hemisphere
       
 ## Step 2 - MongoDB and Flask Application
    •	Used MongoDB with Flask template to create a new HTML page that display all of the information that was scraped from the URLs above
@@ -78,7 +78,7 @@ In index.html, the /scrape route was linked to a button, which a user could clic
    
    •	Created a route called /scrape that imported the scraping.py script and called the scrape function
    
-    o	Store the return value in Mongo as a Python Dictionary
+     o Store the return value in Mongo as a Python Dictionary
     
    •	Created a root route / that queried the Mongo database and passed the Mars Data into an HTML template to display the data
    
