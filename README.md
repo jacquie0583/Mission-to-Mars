@@ -1,4 +1,10 @@
 # Mission-to-Mars:  Just Scraping the Surface 
+##  Resources: 
+Data Source: Mission_to_Mars.ipynb, app.py, scraping.py and index.html
+
+Data Tools: Jupyter Notebook, Python and MongoDB
+
+Software: MongoDB, Python 3.8.3, Visual Studio Code 1.50.0, Flask Version 1.0.2
 
 <p align="center">
    <img width="600" height="300" src="https://github.com/jacquie0583/Mission-to-Mars/blob/main/image%205.png">
